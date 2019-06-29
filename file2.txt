@@ -1,1 +1,1 @@
-this is second file2.txt
+this is second file2.txt updated by new branch
